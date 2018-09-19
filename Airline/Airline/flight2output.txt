@@ -1,0 +1,16 @@
+      Southern Comfort Airline
+Flight 1020
+                        FROM: Jackson, Mississippi
+                        TO: Little Rock , Arkansas
+1007    5195    4211    
+8166    7149    3030    
+7150    6138    5125    
+4112    2014    -999    
+8160    -999    -999    
+-999    -999    -999    
+-999    2020    4038    
+7070    -999    8150    
+-999    -999    1004    
+-999    9189    4117    
+WAITING LIST 
+END OF SEATING CHART

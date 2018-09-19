@@ -1,0 +1,17 @@
+      Southern Comfort Airline
+Flight 1015
+                       FROM:Little Rock, Arkansas 
+                         TO: Jackson, Mississippi 
+6206    3210    4118    
+7207    -999    5212    
+2177    8165    -999    
+5041    5123    8215    
+4114    3170    9087    
+8198    -999    8208    
+-999    7175    4204    
+-999    -999    -999    
+3178    3029    7148    
+-999    -999    5126    
+WAITING LIST 
+	THERE IS NO WAITING LIST
+END OF SEATING CHART

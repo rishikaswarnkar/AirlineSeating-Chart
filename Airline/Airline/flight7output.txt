@@ -1,0 +1,16 @@
+      Southern Comfort Airline
+Flight 1030
+                        FROM:Shreveport, Louisiana
+                          TO:Jackson, Mississippi 
+-999    -999    -999    
+-999    7067    -999    
+-999    5042    -999    
+-999    -999    -999    
+-999    -999    -999    
+3193    3024    -999    
+-999    -999    -999    
+-999    -999    -999    
+-999    -999    4120    
+-999    -999    -999    
+WAITING LIST 
+END OF SEATING CHART

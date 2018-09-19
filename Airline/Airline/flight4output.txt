@@ -1,0 +1,17 @@
+      Southern Comfort Airline
+Flight 1015
+                           FROM:Memphis, Tenessee 
+                          TO:Jackson, Mississippi 
+6053    6052    8071    
+4115    4034    2168    
+-999    8078    -999    
+-999    8155    9111    
+-999    -999    -999    
+-999    -999    1219    
+-999    -999    -999    
+-999    -999    -999    
+7144    -999    -999    
+-999    -999    -999    
+WAITING LIST 
+	THERE IS NO WAITING LIST
+END OF SEATING CHART

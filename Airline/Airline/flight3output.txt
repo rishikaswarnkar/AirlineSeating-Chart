@@ -1,0 +1,16 @@
+      Southern Comfort Airline
+Flight 1030
+                        FROM: Jackson, Mississippi
+                          TO: Sherveport,Louisiana
+6130    1001    2018    
+4036    9110    1009    
+7065    6165    1002    
+8073    2017    7143    
+9109    6186    7063    
+5045    6131    3021    
+2218    2016    5046    
+8164    1006    9108    
+6132    6056    4037    
+5185    4031    7066    
+WAITING LIST 
+END OF SEATING CHART

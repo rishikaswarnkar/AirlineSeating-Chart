@@ -1,0 +1,17 @@
+      Southern Comfort Airline
+Flight 1040
+                         FROM:Jackson, Mississippi
+                              TO:Orlando, Florida 
+1102    1005    1003    
+6134    7064    8077    
+2012    3167    9085    
+4035    5043    2162    
+3220    8074    7069    
+1010    9081    2011    
+1182    3174    8158    
+1105    7146    4039    
+6059    8079    6055    
+5127    3157    2019    
+WAITING LIST 
+	THERE IS NO WAITING LIST
+END OF SEATING CHART
