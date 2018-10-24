@@ -9,8 +9,8 @@ class AirlineClass
 {
 private:
 	const int i = 2;
-	int k;
-	int a[10][3];
+	int k;// Numeric value for the row , M/L/R
+	int a[10][3];//flight's seating chart
 	int b[10][3];
 	int c[10][3];
 	int d[10][3];
@@ -18,12 +18,12 @@ private:
 	int f[10][3];
 	int g[10][3];
 	int h[10][3];
-	int boardnum;
-	int flightnum;
-	char section;
-	int row;
-	char col;
-	int f1[50];
+	int boardnum; // saves the board number from input file 
+	int flightnum;// saves flight number from input file 
+	char section;// saves the section requested by the custmer from input file 
+	int row;// saves row requested by the custmer from input file 
+	char col; // saves coloumn requested by the custmer from input file 
+	int f1[50];// saves the boardnum of the waiting list of the flight 
 	int f2[50];
 	int f3[50];
 	int f4[50];
@@ -32,7 +32,7 @@ private:
 	int f7[50];
 	int f8[50];
 
-	int t1 = -1;
+	int t1 = -1; //Controls the legth of the array for waiting list
 	int t2 = -1;
 	int t3 = -1;
 	int t4 = -1;
@@ -42,7 +42,7 @@ private:
 	int t8 = -1;
 
 
-	char flag;
+	char flag;// flag helps determine the avabilty of the seat to avoid rewrititing
 
 public:
 	void AssignSeat();
@@ -57,9 +57,6 @@ public:
 	void displayFlight1025(ofstream& fout);
 	void displayFlight1035(ofstream& fout);
 	void displayFlight1045(ofstream& fout);
-
-
-
 	void push1(int a);
 	void push2(int b);
 	void push3(int c);
